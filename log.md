@@ -12,14 +12,13 @@
 ### Tag 1: 18. August 2023
 ##### (Heute habe ich ein Gespräch mit nem guten Freund von mir geplant. Er arbeitet als Pflegedienstleiter und hilft mir bei der Planung)
 
-**Heutiger Fortschritt**: CSS Korrektur, Arbeit an der Canvas Funktionalität der App.
+**Heutiger Fortschritt**: 45 minuten gespräch mit meinem Bekannten.
 
-**Gedanken:** Ich habe mich wirklich schwer getan mit CSS/ wirklich mit CSS gekämpft, aber alles in allem habe ich das Gefühl, ich werde langsam besser darin. Canvas ist noch immer Neuland für mich, aber ich habe es geschafft einen Teil der grundlegenden Funktionalität zu verstehen.
+**Gedanken:** Das wird komplizierter als erwartet. Selbstverständlich spielen Datenschutzrechtliche Gründe eine Rolle als auch die Frage, ob ich auf den bisherigen Client zugreifen darf. 
+Aber wir haben lust uns durchzubeissen. 
 
-**Link zur Arbeit:** [Taschenrechner App](http://www.example.com)
 
-
-### Tag 1: 19. August 2023 (Beispiel 2)
+### Tag 2: 19. August 2023 (Beispiel 2)
 
 **Heutiger Fortschritt**: Ich bin einige Übungen auf freeCodeCamp durchgegangen.
 
