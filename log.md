@@ -14,8 +14,8 @@
 
 **Heutiger Fortschritt**: 45 minuten gespräch mit meinem Bekannten.
 
-**Gedanken:** Das wird komplizierter als erwartet. Selbstverständlich spielen Datenschutzrechtliche Gründe eine Rolle als auch die Frage, ob ich auf den bisherigen Client zugreifen darf. 
-Aber wir haben lust uns durchzubeissen. 
+**Gedanken:** Das wird komplizierter als erwartet. Selbstverständlich spielen Datenschutzrechtliche Gründe eine Rolle. Aber auch die Frage, ob ich auf den bisherigen Client zugreifen darf bzw. mal reinschauen. Dies wäre vorallem hilfreich um die Datenstruktur und auch die Art der Daten genauer zu erfahren. 
+Aber wir haben lust uns durchzubeissen! 
 
 
 ### Tag 2: 19. August 2023 (Beispiel 2)
