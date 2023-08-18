@@ -7,7 +7,6 @@
 
 **Gedanken:** Erste Ideen für eine Pfelgebedarf Anwendung in Altersheimen. Ich muss noch klären, wie und was da drin vorkommen sollte.
 
-**Link zur Arbeit:** 
 
 ### Tag 1: 18. August 2023
 ##### (Heute habe ich ein Gespräch mit nem guten Freund von mir geplant. Er arbeitet als Pflegedienstleiter und hilft mir bei der Planung)
