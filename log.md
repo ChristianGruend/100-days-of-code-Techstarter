@@ -1,6 +1,6 @@
 # 100 Days Of Code - Logbuch
 
-### Tag 0: 17. August 2023 (Beispiel 1)
+### Tag 0: 17. August 2023
 ##### (aller Anfang is schwer)
 
 **Heutiger Fortschritt**: Plan für eine Anwendung bezügl. Pflegebedarf in Altersheimen.
