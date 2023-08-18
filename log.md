@@ -10,7 +10,7 @@
 **Link zur Arbeit:** 
 
 ### Tag 1: 18. August 2023
-##### (lösche mich oder kommentiere mich aus)
+##### (Heute habe ich ein Gespräch mit nem guten Freund von mir geplant. Er arbeitet als Pflegedienstleiter und hilft mir bei der Planung)
 
 **Heutiger Fortschritt**: CSS Korrektur, Arbeit an der Canvas Funktionalität der App.
 
