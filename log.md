@@ -18,12 +18,36 @@
 Aber wir haben lust uns durchzubeissen! 
 
 
-### Tag 2: 19. August 2023 (Beispiel 2)
+### Tag 2: 19. August 2023 
 
-**Heutiger Fortschritt**: Ich bin einige Übungen auf freeCodeCamp durchgegangen.
+**Heutiger Fortschritt**: Ich habe mich mit 2 anderen Leuten aus der branche unterhalten um an Informationen zu kommen.
 
-**Gedanken** Ich habe vor Kurzem mit dem Coden begonnen, und es ist ein tolles Gefühl, wenn ich nach vielfachen Ansätzen und mehreren investierten Stunden endlich einen Algorithmus gelöst bekomme.
+**Gedanken** Ich sollte eine kleine Präsentation vorbereiten um die Verantwortlichen überzeugen zu können.
 
+
+### Tag 3: 20. August 2023 
+
+**Heutiger Fortschritt**: 
+
+
+### Tag 4: 21. August 2023 
+
+**Heutiger Fortschritt**: leider keiner
+
+**Gedanken** Es hapert nach wie vor an der Informationsbeschaffung. 
+
+
+### Tag 5: 22. August 2023 
+
+**Heutiger Fortschritt**: naja...
+
+**Gedanken** Ich habe mir einen Plan gemacht, wie ich eine Präsentation vorbereiten kann. Morgen telefoniere ich nocheinmal mit meinem bekannten..  
+
+### Tag 6: 23. August 2023 
+
+**Heutiger Fortschritt**: -
+
+**Gedanken** 
 **Link(s) zur Arbeit**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
